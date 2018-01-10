@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.edwardsnowden.com/"><img src="https://user-images.githubusercontent.com/1634027/34749312-0d46f928-f5a1-11e7-8fe2-d8fc437ec2a0.jpg" /></a></p><br/>
+
 <!--
 
 ```c++
@@ -9,24 +9,7 @@ int main()
   std::cout << "Hello World! did you know?";
 }
 ```
-<p align="center"><img src="https://user-images.githubusercontent.com/1634027/32386807-b0bd1808-c0c2-11e7-9d98-9cb28e6fd51d.jpg" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/1634027/31733764-e79df244-b43c-11e7-9186-92b6744db290.png" /></p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p align="center">I am from a country that is certainly old,<br />
-It has been a long time forgotten and oppressed.<br />
-<br />
-I am from a country where fear is called sanity,<br />
-that walks one step forward and two backwards.<br />
-<br />
-I am from a country that slowly breaks down,<br />
-and between illusions and frustrations goes forth.<br /><br />
-<img src="https://user-images.githubusercontent.com/1634027/32696081-78efb9dc-c76e-11e7-87df-f67db7cbfda8.jpg" /><br />Our battle? freedom, democracy and peace.<br />We will never surrender.<br /><br />There is no jail, prision guard, lock or court decision<br />that can, if we do not want it to, deprive ourselves of begin the way we are.</p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p align="center"><img src="https://user-images.githubusercontent.com/1634027/31734164-1ab05c66-b43e-11e7-9e52-3fd874045876.jpg" /></p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<p align="center">yet Today, is a beautiful day.<br/><br/><a href="https://www.youtube.com/embed/BK7DIJq4slg"><img src="https://user-images.githubusercontent.com/1634027/33692212-60b1ad80-daec-11e7-8875-93d0a39813e3.png" /></a></p-->
+-->
 
 
 [***REFUGEES WELCOME!***](http://www.refugeesaid.eu/rab-campaign/)
